@@ -13,6 +13,4 @@
 
 ## 📦 Kurulum
 
-tg: @sisifos20
-
-www.erdemyazilim.com
+tg: @alp0x00
